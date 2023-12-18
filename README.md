@@ -27,7 +27,7 @@ There are some more problems presented by the company which your model should be
 
 # Details
 
-Lead score.ipynb : The python file with coding of data analysis
-Lead Scoring_Subjective_Questions.pdf: Answered all the subjective questions
-Lead Scoring_SummaryReport.pdf : Summary report on over all analysis
-Lead Score_Presentation.pdf :  Presentation on Final model    
+Lead score.ipynb - The python file with coding of data analysis
+Lead Scoring_Subjective_Questions.pdf - Answered all the subjective questions
+Lead Scoring_SummaryReport.pdf - Summary report on over all analysis
+Lead Score_Presentation.pdf -  Presentation on Final model    
